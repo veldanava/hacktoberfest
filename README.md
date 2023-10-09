@@ -21,9 +21,9 @@ Hacktoberfest is DigitalOcean’s annual event that encourages people to contrib
 - Try to keep pull requests small to minimize merge conflicts.
 
 # Hall Of Fame
-Input your username and project name here \n
-(example) \n
-Veldanava \n
+Input your username and project name here <br>
+(example) <br>
+Veldanava <br>
 Tachikogram written on AdonisJS
 
 # How to Start

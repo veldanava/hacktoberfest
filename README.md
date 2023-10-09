@@ -1,7 +1,5 @@
-<div align="center">
-<img style="width: 100%; height: 70px;" src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg" alt="logo">
+<img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg" alt="logo">
 <h2>🧩 HacktoberFest 2023</h2>
-</div>
 This is my <a href="https://hacktoberfest.com">HacktoberFest</a> git repo on GitHub. It contains resources for celebrate HacktoberFest 2023 & 10TH Anniversary. So, jump right in! 🎯
 <br>
 

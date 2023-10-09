@@ -1,0 +1,37 @@
+.container{
+    background: url('img/clock.png') no-repeat center center/cover;
+    height: 40vw;
+    width: 40vw;
+    margin: 2% auto;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container::before{
+    content: "";
+    height: 45px;
+    width: 45px;
+    background: #000;
+   border-radius: 50%;
+   z-index: 1;
+}
+.container div{
+    position: absolute;
+    border-radius: 50% 50% 0 0;
+    background: #2c2c2c;
+    transform-origin: bottom;
+    bottom: 50%;  
+}
+#hours{
+    height: 25%;
+    width: 3%;
+}
+#minutes{
+    height: 31%;
+    width: 2.4%;
+}
+#seconds{
+    height: 37%;
+    width: 1.8%;
+}

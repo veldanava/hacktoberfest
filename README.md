@@ -20,7 +20,6 @@ Hacktoberfest is DigitalOcean’s annual event that encourages people to contrib
 
 # Contributors
 All Contributor <br>
-[![All Contributors](https://img.shields.io/github/all-contributors/Shimmer12/Cpp?color=ee8449&style=flat-square)](#contributors)
 
 # How to Start
 - fork this repository

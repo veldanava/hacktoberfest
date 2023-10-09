@@ -45,9 +45,6 @@ git commit -m "Lorem Ipsum!!!"
 ```zsh
 git push origin (your branch)
 ```
-# Contributor
-[![All Contributors](https://img.shields.io/github/all-contributors/projectOwner/projectName?color=ee8449&style=flat-square)](#main)
-
 # Note
 You can help me to develop this repository
 

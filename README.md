@@ -18,7 +18,7 @@ Hacktoberfest is DigitalOcean’s annual event that encourages people to contrib
 - Do NOT remove other content.
 - Try to keep pull requests small to minimize merge conflicts.
 
-# Hall Of Fame
+# Contributors
 All Contributor <br>
 [![All Contributors](https://img.shields.io/github/all-contributors/projectOwner/projectName?color=ee8449&style=flat-square)](#contributors)
 

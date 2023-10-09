@@ -20,7 +20,7 @@ Hacktoberfest is DigitalOcean’s annual event that encourages people to contrib
 
 # Hall Of Fame
 All Contributor <br>
-[<img src="https://github.com/{{ contributor }}.png" width="60px;"/><br /><sub><ahref="https://github.com/{{ contributor }}">{{ contributor }}</a></sub>](https://github.com/{{ contributor }}/{{ repository }}
+[<img src="https://github.com/{{ contributor }}.png" width="60px;"/><br><sub><a href="https://github.com/{{ contributor }}">{{ contributor }}</a></sub>](https://github.com/{{ contributor }}/{{ repository }}
 
 # How to Start
 - fork this repository

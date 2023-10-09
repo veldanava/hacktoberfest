@@ -3,7 +3,6 @@
 <h2>🧩 HacktoberFest 2023</h2>
 </div>
 This is my #Hacktoberfest git repo on GitHub. It contains resources for celebrate HacktoberFest 2023. So, jump right in! 🎯
-
 <br>
 
 # About HacktoberFest

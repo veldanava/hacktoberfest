@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg" alt="logo">
+<img style="width: 100%; height: 70px;" src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg" alt="logo">
 <h2>🧩 HacktoberFest 2023</h2>
 </div>
 This is my <a href="https://hacktoberfest.com">HacktoberFest</a> git repo on GitHub. It contains resources for celebrate HacktoberFest 2023 & 10TH Anniversary. So, jump right in! 🎯
@@ -14,4 +14,39 @@ Hacktoberfest is DigitalOcean’s annual event that encourages people to contrib
 <a href="https://youtu.be/DIj2q02gvKs">Git Pull Tutorial</a>
 <br>
 <a href="https://youtu.be/zOx5PJTY8CI">Merge Conflict</a>
+
+# Contribution Tutorial
+- You can fill this repo with your best projects.
+- Do NOT remove other content.
+- Try to keep pull requests small to minimize merge conflicts.
+
+# Hall Of Fame
+Input your username and project name here \n
+(example) \n
+Veldanava \n
+Tachikogram written on AdonisJS
+
+# How to Start
+- fork this repository
+- clone
+```zsh
+git clone https://github.com/veldanava/HacktoberFest2023.git
+```
+- create new branch
+```zsh
+git checkout -b kiana (example)
+```
+```zsh
+git add .
+```
+- commit your branch
+```zsh
+git commit -m "Lorem Ipsum!!!"
+```
+- and push
+```zsh
+git push origin (your branch)
+```
+# Note
+You can help me to develop this repository
 

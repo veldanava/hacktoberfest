@@ -4,7 +4,6 @@
 <h2>🧩 HacktoberFest 2023</h2>
 
 <br>
-<br>
 
 # About HacktoberFest
 

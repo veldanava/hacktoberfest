@@ -44,3 +44,22 @@ git push origin (your branch)
 ```
 # Note
 You can help me to develop this repository
+
+----
+
+
+## Authors
+
+- [@veldanava](https://www.github.com/veldanava)
+
+
+## 🚀 About Me
+Junior fullstack developer, begineer ui/ux designer, and cybersecurity practitioner
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+----

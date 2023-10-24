@@ -1,0 +1,9 @@
+# Spicy information
+.env
+
+# Scuffed npm
+node_modules
+.wwebjs_cache
+dist
+package-lock.json
+conversations.json
